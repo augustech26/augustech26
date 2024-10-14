@@ -1,5 +1,5 @@
 <!--Snake SVG-->
-![SnankeSVG](ruta/al/archivo.svg)
+![SnankeSVG_Contribution](github-user-contribution.svg)
 
 <!--Welcome message-->
 # print("Hello, world!")
